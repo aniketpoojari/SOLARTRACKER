@@ -1,0 +1,2 @@
+# IOT BASED - SOLARTRACKER
+This device helps the solar panel to rotate about x and y axis so that maximum amount of sunlight is received by the solar panel. Solar panel is used to charge a battery. The battery percentage is uploaded to Thingspeak Cloud.
